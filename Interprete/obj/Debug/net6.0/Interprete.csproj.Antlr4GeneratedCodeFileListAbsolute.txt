@@ -1,0 +1,6 @@
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologLexer.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologParser.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologListener.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologBaseListener.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologVisitor.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologBaseVisitor.cs

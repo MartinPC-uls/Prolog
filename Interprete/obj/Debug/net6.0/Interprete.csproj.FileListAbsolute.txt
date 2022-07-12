@@ -1,0 +1,12 @@
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\Interprete.csproj.AssemblyReference.cache
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologLexer.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologParser.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologListener.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologBaseListener.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologVisitor.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\prologBaseVisitor.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\Interprete.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\Interprete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\Interprete.AssemblyInfoInputs.cache
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\Interprete.AssemblyInfo.cs
+C:\Users\ghanv\source\repos\Interprete\Interprete\obj\Debug\net6.0\Interprete.csproj.CoreCompileInputs.cache
